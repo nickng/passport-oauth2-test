@@ -1,0 +1,31 @@
+{
+  "name": "passport-oauth2-test",
+  "version": "0.0.1",
+  "author": "Nicholas Ng",
+  "main": "app.js",
+  "dependencies": {
+    "express": "3.0.x",
+    "connect-ensure-login": ">= 0.1",
+    "connect-flash": ">= 0.1",
+    "jade": ">= 0.0.1",
+    "stylus": ">= 0.0.1",
+    "nib": "0.9.x",
+    "mongoose": "3.5.x",
+    "oauth2orize": "0.x.x",
+    "node-uuid": "1.4.0",
+    "passport": ">= 0.1.15",
+    "passport-local": ">= 0.1.6",
+    "passport-http": "0.2.x",
+    "passport-http-bearer": "0.2.x",
+    "passport-oauth2-client-password": "0.1.x",
+    "bcrypt": ">= 0.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nickng/passport-oauth2-test.git"
+  },
+  "engines": {
+    "node": "0.8.x",
+    "npm": "1.1.x"
+  }
+}
